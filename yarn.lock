@@ -1165,15 +1165,15 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@cenk1cenk2/eslint-config@^0.4.42":
-  version "0.4.42"
-  resolved "https://registry.yarnpkg.com/@cenk1cenk2/eslint-config/-/eslint-config-0.4.42.tgz#2e29ca5fbe82ee8e91ec4e01ab4696945cb774fd"
-  integrity sha512-jAo0Bgp7Hbg2MBzcf/siXhaSKELRkIyQNXGYbng0VzwyBftLvr7O7QlDByPvbjSbBG7y+iseyt1wigtF2fQJYw==
+"@cenk1cenk2/eslint-config@^0.4.44":
+  version "0.4.44"
+  resolved "https://registry.yarnpkg.com/@cenk1cenk2/eslint-config/-/eslint-config-0.4.44.tgz#f091defaf5e8fa064508b63cc4553196136c9ec7"
+  integrity sha512-JOwaKce3aI+CX+pTzYFuMSodW7m4Z71K56+xrj2JFB/p67MyBYPL7q+zhNO5GYDWCWy3rFtrBpAlhoZXRCZXsw==
   dependencies:
-    "@typescript-eslint/eslint-plugin" "^4.28.3"
-    "@typescript-eslint/parser" "^4.28.3"
+    "@typescript-eslint/eslint-plugin" "^4.29.0"
+    "@typescript-eslint/parser" "^4.29.0"
     eslint-config-react "^1.1.7"
-    eslint-plugin-import "^2.23.4"
+    eslint-plugin-import "^2.24.0"
     eslint-plugin-react-hooks "^4.2.0"
 
 "@cypress/webpack-preprocessor@4.1.5":
@@ -2383,7 +2383,7 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@4.29.0", "@typescript-eslint/eslint-plugin@^4.28.3":
+"@typescript-eslint/eslint-plugin@4.29.0", "@typescript-eslint/eslint-plugin@^4.29.0":
   version "4.29.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-4.29.0.tgz#b866c9cd193bfaba5e89bade0015629ebeb27996"
   integrity sha512-eiREtqWRZ8aVJcNru7cT/AMVnYd9a2UHsfZT8MR1dW3UUEg6jDv9EQ9Cq4CUPZesyQ58YUpoAADGv71jY8RwgA==
@@ -2420,7 +2420,7 @@
     eslint-scope "^5.1.1"
     eslint-utils "^3.0.0"
 
-"@typescript-eslint/parser@4.29.0", "@typescript-eslint/parser@^4.28.3":
+"@typescript-eslint/parser@4.29.0", "@typescript-eslint/parser@^4.29.0":
   version "4.29.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.29.0.tgz#e5367ca3c63636bb5d8e0748fcbab7a4f4a04289"
   integrity sha512-+92YRNHFdXgq+GhWQPT2bmjX09X7EH36JfgN2/4wmhtwV/HPxozpCNst8jrWcngLtEVd/4zAwA6BKojAlf+YqA==
@@ -5316,7 +5316,7 @@ eslint-plugin-cypress@^2.11.3:
   dependencies:
     globals "^11.12.0"
 
-eslint-plugin-import@2.24.0, eslint-plugin-import@^2.22.1, eslint-plugin-import@^2.23.4:
+eslint-plugin-import@2.24.0, eslint-plugin-import@^2.22.1, eslint-plugin-import@^2.24.0:
   version "2.24.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.24.0.tgz#697ffd263e24da5e84e03b282f5fb62251777177"
   integrity sha512-Kc6xqT9hiYi2cgybOc0I2vC9OgAYga5o/rAFinam/yF/t5uBqxQbauNPMC6fgb640T/89P0gFoO27FOilJ/Cqg==
