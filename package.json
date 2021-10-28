@@ -89,7 +89,7 @@
     "@nrwl/web": "^9999.0.0",
     "@nrwl/workspace": "^9999.0.0",
     "@testing-library/react": "12.1.2",
-    "@types/config": "^0.0.39",
+    "@types/config": "^0.0.40",
     "@types/jest": "27.0.2",
     "@types/node": "^14.17.21",
     "@types/nprogress": "^0.2.0",
