@@ -60,7 +60,7 @@
     "@fortawesome/react-fontawesome": "^0.1.16",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "clsx": "^1.1.1",
-    "config": "^3.3.6",
+    "config": "^3.3.7",
     "document-register-element": "^1.14.10",
     "nprogress": "^0.2.0",
     "react": "^17.0.2",
