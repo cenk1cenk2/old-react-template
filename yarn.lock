@@ -1082,14 +1082,15 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@cenk1cenk2/eslint-config@^2.4.0":
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/@cenk1cenk2/eslint-config/-/eslint-config-2.4.0.tgz#8ba5e69dbf602728001a819e3430b5e772fe7373"
-  integrity sha512-z/q8D1hHkSDrAq3mPQUnQ0DRoa5jhns5zoM/TweSlnxtJ4GFof4oLP1sp7Rsz09IOfEPsKoFWx7e1+X6THCG1Q==
+"@cenk1cenk2/eslint-config@^2.5.4":
+  version "2.5.4"
+  resolved "https://registry.yarnpkg.com/@cenk1cenk2/eslint-config/-/eslint-config-2.5.4.tgz#fabc6e0d427ad14cb41f8c41c0be90b469ed53e3"
+  integrity sha512-FWkDhLx8VxBMe5OapuTeqyEPyLB0GNJ5+MB+Cznk80NHunOFjZAh4DuFcAjFWhJCG7z+TATIswQdxLygZKFFaQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.9.0"
     "@typescript-eslint/parser" "^5.9.0"
     eslint-plugin-import "^2.25.4"
+    load-tsconfig "^0.2.3"
 
 "@cspotcode/source-map-consumer@0.8.0":
   version "0.8.0"
@@ -8404,6 +8405,11 @@ load-json-file@^4.0.0:
     parse-json "^4.0.0"
     pify "^3.0.0"
     strip-bom "^3.0.0"
+
+load-tsconfig@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/load-tsconfig/-/load-tsconfig-0.2.3.tgz#08af3e7744943caab0c75f8af7f1703639c3ef1f"
+  integrity sha512-iyT2MXws+dc2Wi6o3grCFtGXpeMvHmJqS27sMPGtV2eUu4PeFnG+33I8BlFK1t1NWMjOpcx9bridn5yxLDX2gQ==
 
 loader-runner@^2.4.0:
   version "2.4.0"
