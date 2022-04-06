@@ -75,7 +75,7 @@
   "devDependencies": {
     "roboto-fontface": "^0.10.0",
     "fontsource-frank-ruhl-libre": "^4.0.0",
-    "@babel/core": "7.17.8",
+    "@babel/core": "7.17.9",
     "@babel/plugin-transform-runtime": "^7.17.0",
     "@babel/preset-env": "7.16.11",
     "@babel/preset-react": "7.16.7",
